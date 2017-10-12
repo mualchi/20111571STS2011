@@ -1,5 +1,5 @@
 # 20111571STS2011
-sogang univ class\n
+sogang univ class
 
 
 input : data collecting module
