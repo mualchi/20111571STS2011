@@ -5,7 +5,7 @@ def change124(n):
         if a == 0: n-=1
         answer = "412"[a]+answer
     return answer
-
+"""
 print(1, change124(1))
 print(2, change124(2))
 print(3, change124(3))
